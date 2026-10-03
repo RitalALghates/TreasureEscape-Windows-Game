@@ -82,4 +82,3 @@ Use **QUIT** in the main menu or pause menu to close the game.
 This repository distributes the compiled Windows game through Releases.
 The editable Unity project, C# source files, and Blender project are not included.
 
-The archive's SHA-256 checksum is recorded in [SHA256SUMS.txt](SHA256SUMS.txt).

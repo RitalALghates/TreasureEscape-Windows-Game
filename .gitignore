@@ -3,6 +3,5 @@
 !.gitignore
 !.gitattributes
 !README.md
-!SHA256SUMS.txt
 !Screenshots/
 !Screenshots/*.png
