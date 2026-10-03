@@ -1,0 +1,8 @@
+# This public repository contains only player-facing documentation and screenshots.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!SHA256SUMS.txt
+!Screenshots/
+!Screenshots/*.png
