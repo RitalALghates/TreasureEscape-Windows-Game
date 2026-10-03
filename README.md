@@ -8,6 +8,16 @@ quiet and watch the shark as you cross the ocean.
 
 **Windows 64-bit · Single-player · 3D adventure · English**
 
+Developed with **C#** and **Unity**, with 3D models and environments created in **Blender**.
+
+## Language and development tools
+
+| Technology | Type | Role in the game |
+| --- | --- | --- |
+| **C#** | Programming language | Scripts for player movement, boat controls, enemy behavior, missions, health, and menus. |
+| **Unity** | Game engine | Brings the scenes and scripts together, handles collisions, lighting and audio, and builds the standalone Windows game. |
+| **Blender** | 3D modeling application | Creates the 3D models and environment, including the ship, island, and boat, for use in Unity. |
+
 ## Download and play
 
 ### [Download Treasure Escape for Windows](https://github.com/RitalALghates/TreasureEscape-Windows-Game/releases/latest/download/TreasureEscape_Windows.zip)
